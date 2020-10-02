@@ -44,7 +44,7 @@ Please file any bugs in the [issues tracker](https://github.com/cgcardona/blockc
 
 ### Security
 
-Any and all security issues should be reported immediately to gabr13l [at] bigearth [dot] io or [@cgcardona](https://twitter.com/cgcardona).
+Any and all security issues should be reported immediately to gabr13l [at] bigearth [dot]  or [@cgcardona](https://twitter.com/cgcardona).
 
 #### Environment Variables
 
@@ -58,7 +58,7 @@ I'm using [figaro](https://github.com/laserlemon/figaro) to handle all app sensi
 
 ## Miscellaneous
  
-* Available under the [MIT Open Source License](LICENSE.md)
+* Available under the [MIT Open Source License](LICENSE.md).
 * Check out the [wiki](https://github.com/cgcardona/blockchain.bigearth.io/wiki) for the latest docs.
 * Latest version can be found in [config/initializers/version.rb](config/initializers/version.rb) and follows [Semantic Versioning](http://semver.org/).
 * Like what you see and want to leave a donation? Thanks! Please send any donations to **1NqrPY6xRddBmvrWVGz9ZE49ahKbYYhAUp**
